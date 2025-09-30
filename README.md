@@ -24,7 +24,6 @@ Create an app that allows users to browse movies and manage their own “watchli
 
 ## 📸 Screenshots
 
-*(Insert images/screenshots here from your project — e.g. homepage, watchlist modal, movie detail popups)*  
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
