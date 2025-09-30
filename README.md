@@ -24,7 +24,6 @@ Create an app that allows users to browse movies and manage their own “watchli
 
 ## 📸 Screenshots
 
-*(Insert images/screenshots here from your project — e.g. homepage, watchlist modal, movie detail popups)*  
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
@@ -74,34 +73,31 @@ npm run dev
 
 By default, your app should run (e.g.) at http://localhost:5173.
 
-📁 Project Structure : 
-verto/
-├── src/
-│   ├── components/     # Reusable UI components (MovieCard, Modal, etc.)
-│   ├── pages/          # Views (Home, Search, Watchlist)
-│   ├── services/       # API calls, fetch logic
-│   ├── context/        # State/context providers
-│   └── types/          # types of content
-|── App.jsx             #Root component / routing setup
-├── public/             # Static assets, index.html
-├── package.json        # Dependencies & scripts
-└── .env                # Environment variables (not committed)
 
 ## Usage & Features
 
->Homepage / Discover – Shows popular movies right on load.
->Search – Type a title and fetch matching movies.
->Add to Watchlist – Click a button to save a movie.
->Watchlist View – See all your saved movies in one place.
->Remove from Watchlist – Option to remove a movie from saved list.
->Routing – Navigate between Home, Search, Watchlist without full page reloads.
+Homepage / Discover – Shows popular movies right on load.
+
+Search – Type a title and fetch matching movies.
+
+Add to Watchlist – Click a button to save a movie.
+
+Watchlist View – See all your saved movies in one place.
+
+Remove from Watchlist – Option to remove a movie from saved list.
+
+Routing – Navigate between Home, Search, Watchlist without full page reloads.
 
 ## Acknowledgments
 
 >TMDb (The Movie Database) — for the API and movie metadata
+>
 >React, Vite, Tailwind CSS — essential frameworks & libraries
+>
 >Open-source community — for tutorials, code inspiration, and assistance
+>
 >Bolt New Ai — for quick coding and support
 
 Thank you for checking out Verto!
+
 I hope this README helps others to understand, use, and contribute to your project.
