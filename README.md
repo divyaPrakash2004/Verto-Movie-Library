@@ -73,18 +73,6 @@ npm run dev
 
 By default, your app should run (e.g.) at http://localhost:5173.
 
-📁 Project Structure : 
-verto/
-├── src/
-│   ├── components/     # Reusable UI components (MovieCard, Modal, etc.)
-│   ├── pages/          # Views (Home, Search, Watchlist)
-│   ├── services/       # API calls, fetch logic
-│   ├── context/        # State/context providers
-│   └── types/          # types of content
-|── App.jsx             #Root component / routing setup
-├── public/             # Static assets, index.html
-├── package.json        # Dependencies & scripts
-└── .env                # Environment variables (not committed)
 
 ## Usage & Features
 
