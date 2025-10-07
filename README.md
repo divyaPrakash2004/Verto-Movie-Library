@@ -18,7 +18,7 @@ Create an app that allows users to browse movies and manage their own “watchli
 - Search movies by title  
 - Display movies in a grid with posters and titles  
 - Allow users to “Add to Watchlist”; this data should persist using **localStorage**  
-- Provide a separate **Watchlist** view showing all saved movies  
+- Provide a separate **Watchlist** view showing all saved movies 
 
 ---
 
