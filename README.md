@@ -100,4 +100,4 @@ Routing – Navigate between Home, Search, Watchlist without full page reloads.
 
 Thank you for checking out Verto!
 
-I hope this README helps others to understand, use, and contribute to your project.
+I hope this README helps others to understand, use, and contribute to your project...
